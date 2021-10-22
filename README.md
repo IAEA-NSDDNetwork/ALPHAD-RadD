@@ -17,8 +17,9 @@ The .zip  file in the **executable** directory contains:
 #### 2018-04
 **Beta version**
  This ALPHAD_RadD code is an extension of original ALPHAD code that automatically deduces radius parameter (r0) for odd-A and odd-odd alpha emitters, employing the April 2018 file of r0 parameters deduced for 182 even-even alpha emitters (an update of previous 1998 file 1998Ak04) by S. Dhindsa et al.
- Additionally, the code has an option of inputting user-supplied radius parameter.
- Note: some bugs in the original ALPHAD code have also been resolved.
+Additionally, the code has an option of inputting user-supplied radius parameter.
+
+Note: some bugs in the original ALPHAD code have also been resolved.
 
 ## Disclaimer
 

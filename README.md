@@ -1,5 +1,5 @@
 # ALPHAD-RadD
-ALPHAD extension, calculates radius parameter. ALPHAD-RadD is part of the [ENSDF Analysis and Utility Programs](https://nds.iaea.org/public/ensdf_pgm/).
+ALPHAD extension, calculates radius parameter for odd-A and odd-odd alpha emitters in addition to alpha HF's and theoretical half-lives. ALPHAD-RadD is part of the [ENSDF Analysis and Utility Programs](https://nds.iaea.org/public/ensdf_pgm/).
 
 Address any question to Balraj Singh, balraj@mcmaster.ca
 

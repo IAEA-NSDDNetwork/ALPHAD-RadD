@@ -12,7 +12,7 @@ The .zip  file in the **executable** directory contains:
 ## Change history
 
 #### 2021-06
-* New Version
+* Version 1.0
 
 #### 2018-04
 **Beta version**

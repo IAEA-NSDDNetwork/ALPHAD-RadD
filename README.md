@@ -1,7 +1,7 @@
 # ALPHAD-RadD
-ALPHAD extension, calculates radius parameter. ALPHAD-RadD is part of the [ENSDF Analysis and Utility Programs](https://nds.iaea.org/public/ensdf_pgm/).
+ALPHAD extension, calculates radius parameter. Superceded by AlphaHF
 
-Address any question to Balraj Singh, balraj@mcmaster.ca
+ALPHAD-RadD is part of the [ENSDF Analysis and Utility Programs](https://nds.iaea.org/public/ensdf_pgm/).
 
 ## Downloads
 The .zip  file in the **executable** directory contains:
